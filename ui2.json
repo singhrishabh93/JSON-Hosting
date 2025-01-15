@@ -1,0 +1,30 @@
+{
+    "uiConfig": {
+      "theme": "dark",
+      "primaryColor": "#BB86FC",
+      "buttonStyle": {
+        "radius": 12.0,
+        "height": 52.0,
+        "width": 220.0
+      },
+      "components": ["header", "searchBar", "productList"],
+      "fonts": {
+        "titleFont": "Roboto",
+        "bodyFont": "OpenSans"
+      },
+      "spacing": {
+        "small": 10.0,
+        "medium": 20.0,
+        "large": 30.0
+      }
+    },
+    "features": {
+      "darkMode": true,
+      "search": true,
+      "filters": true,
+      "sorting": true,
+      "wishlist": true,
+      "cart": true
+    }
+  }
+  
