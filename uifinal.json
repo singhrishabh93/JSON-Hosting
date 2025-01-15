@@ -1,28 +1,28 @@
 {
   "uiConfig": {
     "theme": "light",
-    "primaryColor": "#2196F3",
+    "primaryColor": "#FF4081",
     "buttonStyle": {
-      "radius": 8.0,
-      "height": 48.0,
-      "width": 200.0
+      "radius": 4.0,
+      "height": 44.0,
+      "width": 180.0
     },
-    "components": ["header", "searchBar", "productList"],
+    "components": ["header", "productList"],
     "fonts": {
       "titleFont": "Roboto",
       "bodyFont": "OpenSans"
     },
     "spacing": {
-      "small": 8.0,
-      "medium": 16.0,
-      "large": 24.0
+      "small": 6.0,
+      "medium": 12.0,
+      "large": 18.0
     }
   },
   "features": {
-    "darkMode": true,
-    "search": true,
-    "filters": true,
-    "sorting": true,
+    "darkMode": false,
+    "search": false,
+    "filters": false,
+    "sorting": false,
     "wishlist": false,
     "cart": true
   }
